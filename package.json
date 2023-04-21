@@ -48,7 +48,7 @@
     "@callstack/react-theme-provider": "3.0.3",
     "fuse.js": "3.4.5",
     "node-emoji": "1.10.0",
-    "prop-types": "15.7.2",
+    "prop-types": "15.8.1",
     "react-async-hook": "3.6.1"
   },
   "devDependencies": {
